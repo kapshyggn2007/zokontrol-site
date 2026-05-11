@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url("./material-icons/MaterialIcons-Regular.eot); 
+/*
+playback timings (ms):
+  capture_cache.get: 7.043
+  load_resource: 397.485
+  PetaboxLoader3.resolve: 295.541
+  PetaboxLoader3.datanode: 101.204
+*/
