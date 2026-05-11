@@ -1,0 +1,81 @@
+@CHARSET "ISO-8859-1";
+@font-face {
+	font-family: 'futurastd';
+	src: url('../fonts/FuturaStd-Book.eot');
+	src: url('../fonts/FuturaStd-Book.woff') format('woff'),
+		url('../fonts/FuturaStd-Book.ttf') format('truetype'),
+		url('../fonts/FuturaStd-Book.svg') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futurastd';
+	src: url('../fonts/FuturaStd-Medium.eot');
+	src: url('../fonts/FuturaStd-Medium.woff') format('woff'),
+		url('../fonts/FuturaStd-Medium.ttf') format('truetype'),
+		url('../fonts/FuturaStd-Medium.svg') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futurastd';
+	src: url('../fonts/FuturaStd-Bold.eot');
+	src: url('../fonts/FuturaStd-Bold.woff') format('woff'),
+		url('../fonts/FuturaStd-Bold.ttf') format('truetype'),
+		url('../fonts/FuturaStd-Bold.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futurastd';
+	src: url('../fonts/FuturaStd-Heavy.eot');
+	src: url('../fonts/FuturaStd-Heavy.woff') format('woff'),
+		url('../fonts/FuturaStd-Heavy.ttf') format('truetype'),
+		url('../fonts/FuturaStd-Heavy.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futurabt';
+	src: url('../fonts/FuturaMdBt-Bold.eot');
+	src: url('../fonts/FuturaMdBt-Bold.woff') format('woff'),
+		url('../fonts/FuturaMdBt-Bold.ttf') format('truetype'),
+		url('../fonts/FuturaMdBt-Bold.svg') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'futurabt';
+	src: url('../fonts/FuturaMdBt-Heavy.eot');
+	src: url('../fonts/FuturaMdBt-Heavy.woff') format('woff'),
+		url('../fonts/FuturaMdBt-Heavy.ttf') format('truetype'),
+		url('../fonts/FuturaMdBt-Heavy.svg') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+html, body, .mdc-typography {
+	font-family: 'futurastd';
+	font-weight: 100;
+	font-size: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	font-size: 14px;
+	font-size: 1.000rem;
+	color: #212121;
+	height: auto;
+	height: 100%;
+	-webkit-font-smoothing: subpixel-antialiased;
+	text-shadow: 0px 0px 1px rgba(0, 0, 0, .1);
+	display: inline-block;
+	width: 100%;
+	letter-spacing: normal;
+    line-height: normal;
+}
+
+/*
+playback timings (ms):
+  capture_cache.get: 3.932
+  load_resource: 511.005
+  PetaboxLoader3.resolve: 164.157
+  PetaboxLoader3.datanode: 345.298
+*/
