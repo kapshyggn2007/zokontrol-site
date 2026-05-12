@@ -1320,3 +1320,63 @@ playback timings (ms):
   PetaboxLoader3.resolve: 584.368 (2)
   load_resource: 147.602
 */
+/* Homepage stability overrides: prevent section clipping/overlap on hard refresh */
+#wrapper,
+#wrapper > div {
+  min-height: 0 !important;
+  overflow: visible !important;
+}
+
+.homepage-slider .swiper-slide {
+  height: auto !important;
+}
+
+#custom_navbar {
+  min-height: 72px;
+}
+
+#custom_navbar .logo img {
+  max-width: 300px;
+  height: auto;
+}
+
+#section1 {
+  min-height: 520px;
+  padding-top: 92px;
+}
+
+#section2,
+#section3,
+#section4,
+#section5 {
+  min-height: auto !important;
+}
+
+#section2 .container,
+#section3 .container,
+#section4 .container,
+#section5 .container,
+#section2 .container-fluid,
+#section3 .container-fluid,
+#section4 .container-fluid,
+#section5 .container-fluid {
+  height: auto !important;
+  display: block !important;
+}
+
+#section2 .section2-cell,
+#section3 .section3-cell,
+#section4 .section4-cell,
+#section5 .section5-cell {
+  display: block !important;
+}
+
+@media (max-width: 992px) {
+  #custom_navbar .logo img {
+    max-width: 190px;
+  }
+
+  #section1 {
+    padding-top: 78px;
+  }
+}
