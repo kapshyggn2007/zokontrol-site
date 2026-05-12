@@ -14,17 +14,20 @@ body.mdc-typography {
 /* Keep navbar above hero and avoid brand/menu overlap */
 #custom_navbar {
   z-index: 1000 !important;
-  min-height: 78px !important;
+  min-height: 92px !important;
   position: fixed !important;
   top: 0 !important;
   left: 0 !important;
   right: 0 !important;
   background: #ffffff !important;
   border-bottom: 1px solid rgba(24, 47, 84, 0.14);
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+  overflow: visible !important;
 }
 
 body {
-  padding-top: 78px !important;
+  padding-top: 92px !important;
 }
 
 #custom_navbar .container {
@@ -37,12 +40,22 @@ body {
   max-width: none !important;
   margin-right: 20px !important;
   flex: 0 0 auto !important;
+  padding: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 
 #custom_navbar .logo img {
-  width: 84px !important;
-  max-width: 84px !important;
+  width: 72px !important;
+  max-width: 72px !important;
   height: auto !important;
+  display: block !important;
+}
+
+#custom_navbar .logo.animated,
+#custom_navbar .logo img.animated {
+  animation: none !important;
+  transform: none !important;
 }
 
 #custom_navbar .navbar-collapse {
@@ -55,7 +68,7 @@ body {
 
 #custom_navbar .navbar-nav .nav-link {
   line-height: 1.15 !important;
-  padding: 10px 10px !important;
+  padding: 8px 10px !important;
   color: #1f3763 !important;
 }
 
@@ -183,16 +196,18 @@ body {
 
 @media (max-width: 992px) {
   #custom_navbar .logo img {
-    width: 82px !important;
-    max-width: 82px !important;
+    width: 66px !important;
+    max-width: 66px !important;
   }
 
   #custom_navbar {
-    min-height: 64px !important;
+    min-height: 74px !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
   }
 
   body {
-    padding-top: 64px !important;
+    padding-top: 74px !important;
   }
 
   #section1,
