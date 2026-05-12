@@ -6,13 +6,13 @@
     if (typeof window.Swiper !== "function") return;
     var el = document.querySelector(".homepage-slider");
     if (!el) return;
+    var visibleSlides = el.querySelectorAll(".swiper-slide:not([style*='display: none'])").length;
+    if (visibleSlides <= 1) return;
     new window.Swiper(el, {
-      loop: true,
+      loop: false,
+      autoHeight: true,
       speed: 700,
-      autoplay: {
-        delay: 5000,
-        disableOnInteraction: false
-      },
+      autoplay: false,
       pagination: {
         el: ".swiper-pagination",
         clickable: true

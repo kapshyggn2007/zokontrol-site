@@ -1,0 +1,169 @@
+/* Home page hardening layer (loaded after legacy archive CSS) */
+
+/* Restore normal document flow; legacy archive CSS used inline-block body */
+html,
+body,
+body.mdc-typography {
+  display: block !important;
+  width: 100% !important;
+  min-height: 100% !important;
+  height: auto !important;
+  overflow-x: hidden !important;
+}
+
+/* Keep navbar above hero and avoid brand/menu overlap */
+#custom_navbar {
+  z-index: 1000 !important;
+  min-height: 78px !important;
+}
+
+#custom_navbar .container {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+#custom_navbar .logo {
+  max-width: none !important;
+  margin-right: 20px !important;
+  flex: 0 0 auto !important;
+}
+
+#custom_navbar .logo img {
+  width: 92px !important;
+  max-width: 92px !important;
+  height: auto !important;
+}
+
+#custom_navbar .navbar-collapse {
+  flex-grow: 0 !important;
+}
+
+#custom_navbar .navbar-nav {
+  align-items: center !important;
+}
+
+#custom_navbar .navbar-nav .nav-link {
+  line-height: 1.15 !important;
+  padding: 10px 10px !important;
+}
+
+/* Make dropdown readable and stable */
+#custom_navbar .dropdown-menu {
+  background: rgba(255, 255, 255, 0.96) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  min-width: 11rem !important;
+}
+
+#custom_navbar .dropdown-item {
+  color: #1b2f54 !important;
+  font-weight: 500 !important;
+}
+
+#custom_navbar .dropdown-item:hover,
+#custom_navbar .dropdown-item:focus {
+  background: #f3f6fb !important;
+  color: #f26d35 !important;
+}
+
+/* Neutralize legacy 100% height table layout that causes blank mid-page on reload */
+#wrapper,
+#wrapper > div {
+  min-height: 0 !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+.homepage-slider,
+.homepage-slider.swiper-container,
+.homepage-slider .swiper-wrapper,
+.homepage-slider .swiper-slide {
+  height: auto !important;
+  min-height: 0 !important;
+}
+
+/* Keep homepage hero stable: disable archived second slide that causes overlap/jump */
+.homepage-slider .swiper-slide:nth-child(2) {
+  display: none !important;
+}
+
+.homepage-slider .swiper-pagination {
+  display: none !important;
+}
+
+#section1,
+#eos-detail-section1 {
+  min-height: 520px !important;
+  height: auto !important;
+  padding-top: 122px !important;
+  background-image: none !important;
+  background-color: #f26d35 !important;
+}
+
+#section1 .section1-caption,
+#eos-detail-section1 .eos-detail-section1-caption {
+  color: #ffffff !important;
+}
+
+#eos-detail-section1 .eos-detail-section1-caption .eos-logo {
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+#eos-detail-section1 .eos-detail-section1-caption h1 {
+  color: #ffffff !important;
+  font-size: 2.4rem !important;
+  line-height: 1.2 !important;
+  text-transform: none !important;
+}
+
+#section1 .container,
+#section2 .container,
+#section3 .container,
+#section4 .container,
+#section5 .container,
+#eos-detail-section1 .container {
+  display: block !important;
+  height: auto !important;
+}
+
+#section1 .section1-cell,
+#section2 .section2-cell,
+#section3 .section3-cell,
+#section4 .section4-cell,
+#section5 .section5-cell,
+#eos-detail-section1 .eos-detail-section1-cell {
+  display: block !important;
+  height: auto !important;
+}
+
+#section2,
+#section3,
+#section4,
+#section5 {
+  min-height: auto !important;
+  height: auto !important;
+}
+
+@media (max-width: 992px) {
+  #custom_navbar .logo img {
+    width: 82px !important;
+    max-width: 82px !important;
+  }
+
+  #custom_navbar {
+    min-height: 64px !important;
+  }
+
+  #section1,
+  #eos-detail-section1 {
+    min-height: 460px !important;
+    padding-top: 96px !important;
+  }
+
+  #eos-detail-section1 .eos-detail-section1-caption h1 {
+    font-size: 1.85rem !important;
+  }
+}
