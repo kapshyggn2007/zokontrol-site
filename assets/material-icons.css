@@ -1,1 +1,18 @@
-@font-face {	font-family: 'Material Icons';	font-style: normal;	font-weight: 400;	src: url(/web/20180822184213im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.eot); /* For IE6-8 */	src: local('Material Icons'), local('MaterialIcons-Regular'),		url(/web/20180822184213im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.woff2) format('woff2'),		url(/web/20180822184213im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.woff) format('woff'),		url(/web/20180822184213im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.ttf) format('truetype');}.material-icons {	font-family: 'Material Icons';	font-weight: normal;	font-style: normal;	font-size: 24px; /* Preferred icon size */	display: inline-block;	line-height: 1;	text-transform: none;	letter-spacing: normal;	word-wrap: normal;	white-space: nowrap;	direction: ltr;	/* Support for all WebKit browsers. */	-webkit-font-smoothing: antialiased;	/* Support for Safari and Chrome. */	text-rendering: optimizeLegibility;	/* Support for Firefox. */	-moz-osx-font-smoothing: grayscale;	/* Support for IE. */	font-feature-settings: 'liga';}/*     FILE ARCHIVED ON 18:42:13 Aug 22, 2018 AND RETRIEVED FROM THE     INTERNET ARCHIVE ON 09:01:42 May 11, 2026.     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.     SECTION 108(a)(3)).*//*playback timings (ms):  capture_cache.get: 7.043  load_resource: 397.485  PetaboxLoader3.resolve: 295.541  PetaboxLoader3.datanode: 101.204*/
+﻿@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "liga";
+}
