@@ -1380,3 +1380,67 @@ playback timings (ms):
     padding-top: 78px;
   }
 }
+
+/* Homepage header/hero overlap fix */
+@media (min-width: 993px) {
+  #custom_navbar {
+    min-height: 78px;
+  }
+
+  #custom_navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #custom_navbar .logo {
+    max-width: none;
+    margin-right: 18px;
+    flex: 0 0 auto;
+  }
+
+  #custom_navbar .logo img {
+    max-width: 130px !important;
+    width: 130px;
+    height: auto;
+  }
+
+  #custom_navbar .navbar-collapse {
+    flex-grow: 0;
+  }
+
+  #custom_navbar .navbar-nav {
+    align-items: center;
+  }
+
+  #custom_navbar .navbar-nav .nav-link {
+    line-height: 1.1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  #section1 {
+    padding-top: 122px !important;
+  }
+
+  #section1 .section1-caption .harmonia-logo {
+    width: 270px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 992px) {
+  #section1 {
+    padding-top: 96px !important;
+  }
+
+  #section1 .section1-caption .harmonia-logo {
+    width: 220px;
+    max-width: 100%;
+    height: auto;
+  }
+}
