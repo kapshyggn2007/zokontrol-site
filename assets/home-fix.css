@@ -30,8 +30,8 @@ body.mdc-typography {
 }
 
 #custom_navbar .logo img {
-  width: 92px !important;
-  max-width: 92px !important;
+  width: 84px !important;
+  max-width: 84px !important;
   height: auto !important;
 }
 
@@ -82,20 +82,11 @@ body.mdc-typography {
   min-height: 0 !important;
 }
 
-/* Keep homepage hero stable: disable archived second slide that causes overlap/jump */
-.homepage-slider .swiper-slide:nth-child(2) {
-  display: none !important;
-}
-
-.homepage-slider .swiper-pagination {
-  display: none !important;
-}
-
 #section1,
 #eos-detail-section1 {
   min-height: 520px !important;
   height: auto !important;
-  padding-top: 122px !important;
+  padding-top: 170px !important;
   background-image: none !important;
   background-color: #f26d35 !important;
 }
@@ -147,6 +138,33 @@ body.mdc-typography {
   height: auto !important;
 }
 
+/* Improve About section placement and readability */
+#section2 {
+  padding: 52px 0 56px !important;
+}
+
+#section2 .section2-caption {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+#section2 .section2-caption h2 {
+  font-size: 56px;
+  letter-spacing: 1px;
+  margin-bottom: 20px !important;
+}
+
+#section2 .section2-caption .content {
+  font-size: 34px;
+  line-height: 1.45;
+  max-width: 940px;
+  margin: 0 auto 14px auto !important;
+}
+
+#section2 .section2-caption .secondary-btn {
+  margin-top: 4px;
+}
+
 @media (max-width: 992px) {
   #custom_navbar .logo img {
     width: 82px !important;
@@ -160,10 +178,22 @@ body.mdc-typography {
   #section1,
   #eos-detail-section1 {
     min-height: 460px !important;
-    padding-top: 96px !important;
+    padding-top: 118px !important;
   }
 
   #eos-detail-section1 .eos-detail-section1-caption h1 {
     font-size: 1.85rem !important;
+  }
+
+  #section2 {
+    padding: 36px 0 40px !important;
+  }
+
+  #section2 .section2-caption h2 {
+    font-size: 42px;
+  }
+
+  #section2 .section2-caption .content {
+    font-size: 26px;
   }
 }

@@ -9,10 +9,13 @@
     var visibleSlides = el.querySelectorAll(".swiper-slide:not([style*='display: none'])").length;
     if (visibleSlides <= 1) return;
     new window.Swiper(el, {
-      loop: false,
-      autoHeight: true,
+      loop: true,
+      autoHeight: false,
       speed: 700,
-      autoplay: false,
+      autoplay: {
+        delay: 5200,
+        disableOnInteraction: false
+      },
       pagination: {
         el: ".swiper-pagination",
         clickable: true
