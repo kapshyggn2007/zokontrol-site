@@ -125,11 +125,27 @@ body {
   color: #ffffff !important;
 }
 
+#section1 .section1-caption .harmonia-logo,
 #eos-detail-section1 .eos-detail-section1-caption .eos-logo {
-  width: 180px;
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+}
+
+#section1 .section1-caption .harmonia-logo {
+  width: 260px;
   max-width: 100%;
   height: auto;
-  margin-bottom: 10px;
+}
+
+#eos-detail-section1 .eos-detail-section1-caption .eos-logo {
+  width: 170px;
+  max-width: 100%;
+  height: auto;
 }
 
 #eos-detail-section1 .eos-detail-section1-caption h1 {
@@ -218,6 +234,20 @@ body {
 
   #eos-detail-section1 .eos-detail-section1-caption h1 {
     font-size: 1.85rem !important;
+  }
+
+  #section1 .section1-caption .harmonia-logo,
+  #eos-detail-section1 .eos-detail-section1-caption .eos-logo {
+    padding: 6px 10px;
+    border-radius: 8px;
+  }
+
+  #section1 .section1-caption .harmonia-logo {
+    width: 220px;
+  }
+
+  #eos-detail-section1 .eos-detail-section1-caption .eos-logo {
+    width: 150px;
   }
 
   #section2 {
