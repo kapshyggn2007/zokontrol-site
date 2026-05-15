@@ -1,7 +1,7 @@
-﻿/* final visible footer: dark background and readable text */
+﻿/* footer: Zo Kontrol blue */
 footer, #footer {
-  background: #0f1720 !important;
-  background-color: #0f1720 !important;
+  background: #0a6fbf !important;
+  background-color: #0a6fbf !important;
   color: #ffffff !important;
   z-index: 2000 !important;
   position: relative !important;
