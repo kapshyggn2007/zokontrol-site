@@ -1,0 +1,654 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app54.us.archive.org';v.server_ms=5497;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=oZ57VlYl" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.zokontrol.com/","20201225081601","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1608884161");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <meta name="theme-color" content="#f26d35"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Zo kontrol</title>
+    <meta name="description" content="In this new millennia, our homes are coherently integrated with all sorts of machines.">
+    <meta property="og:image" itemprop="image" content="https://web.archive.org/web/20201225081601im_/http://zokontrol.com/images/zo-url-img.jpg">
+    <meta property="og:title" content="Zo kontrol - Smart Home Automation"/>
+    <meta property="og:url" content="https://web.archive.org/web/20201225081601/http://zokontrol.com/"/>
+    <meta property="og:description" content="Making our daily lives easy and hassle free">
+    <meta property="og:site_name" content="Zo kontrol"/>
+    <link rel="shortcut icon" type="image/png" href="/web/20201225081601im_/http://www.zokontrol.com/images/favicon.png"/>
+
+    <!-- icon in the highest resolution we need it for -->
+    <link rel="icon" sizes="192x192" href="/web/20201225081601im_/http://www.zokontrol.com/images/icon.png">
+
+    <!-- reuse same icon for Safari -->
+    <link rel="apple-touch-startup-image" href="images/icon.png">
+    <link rel="apple-touch-icon" href="/web/20201225081601im_/http://www.zokontrol.com/images/ios-icon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/web/20201225081601im_/http://www.zokontrol.com/images/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/web/20201225081601im_/http://www.zokontrol.com/images/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/web/20201225081601im_/http://www.zokontrol.com/images/touch-icon-ipad-retina.png">
+
+    <!-- multiple icons for IE -->
+    <meta name="msapplication-square310x310logo" content="images/icon_largetile.png">
+
+    <link href="/web/20201225081601cs_/http://www.zokontrol.com/css/material-icons/material-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="/web/20201225081601cs_/http://www.zokontrol.com/css/icofont.min.css">
+    <!-- Bootstrap -->
+    <link href="/web/20201225081601cs_/http://www.zokontrol.com/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://web.archive.org/web/20201225081601cs_/https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+    <link href="/web/20201225081601cs_/http://www.zokontrol.com/css/loaders.min.css" rel="stylesheet">
+    <link href="/web/20201225081601cs_/http://www.zokontrol.com/css/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="/web/20201225081601cs_/http://www.zokontrol.com/css/swiper.min.css">
+    <link href="/web/20201225081601cs_/http://www.zokontrol.com/css/custom-style.css" rel="stylesheet">
+    <link href="/web/20201225081601cs_/http://www.zokontrol.com/css/custom.css" rel="stylesheet">
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+    <script src="https://web.archive.org/web/20201225081601js_/https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://web.archive.org/web/20201225081601js_/https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="" crossorigin="anonymous">
+    </script>
+    <script src="https://web.archive.org/web/20201225081601js_/https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="" crossorigin="anonymous">
+    </script>
+    <script src="/web/20201225081601js_/http://www.zokontrol.com/js/bootstrap.min.js"></script>
+    <script src="https://web.archive.org/web/20201225081601js_/https://code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="https://web.archive.org/web/20201225081601js_/https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://web.archive.org/web/20201225081601js_/https://www.googletagmanager.com/gtag/js?id=UA-138591856-1"></script>
+    <script src="https://web.archive.org/web/20201225081601js_/https://www.google.com/recaptcha/api.js?render=6Leuv6AUAAAAAPg-xGM4VCjgRh3PWGAUeuO957iP"></script>
+ <script>
+        grecaptcha.ready(function () {
+            grecaptcha.execute('6Leuv6AUAAAAAPg-xGM4VCjgRh3PWGAUeuO957iP', { action: 'index' }).then(function (token) {
+                var recaptchaResponse = document.getElementById('recaptchaResponse');
+                recaptchaResponse.value = token;
+            });
+        });
+    </script>
+
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-138591856-1');
+    </script>
+
+</head>
+
+<body class="mdc-typography"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20201225081601/http%3A//www.zokontrol.com/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.zokontrol.com/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20201225081601" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20201225081601*/http://www.zokontrol.com/" title="See a list of every capture for this URL">30 captures</a>
+          <div class="r" title="Timespan for captures of this URL">04 Dec 2017 - 23 May 2024</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Nov</td>
+            <td class="c" id="displayMonthEl" title="You are here: 08:16:01 Dec 25, 2020">DEC</td>
+            <td class="f" nowrap="nowrap">Jan</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 08:16:01 Dec 25, 2020">25</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2019</td>
+            <td class="c" id="displayYearEl" title="You are here: 08:16:01 Dec 25, 2020">2020</td>
+            <td class="f" nowrap="nowrap">2021</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20201225081601/http://web.archive.org/screenshot/http://www.zokontrol.com/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20201225081601/http://www.zokontrol.com/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20201225081601/http://www.zokontrol.com/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align="right" src="https://wiki.archiveteam.org/images/e/e6/Archiveteam.jpg" width="200"> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+</p><p>
+The main site for Archive Team is at <a href="https://wiki.archiveteam.org/">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+</p><p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="https://web.archive.org">Wayback Machine</a>, providing a path back to lost websites and work. 
+</p><p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+</p><p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+</p><p></p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam_urls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archiveteam_urls" target="_new"><span class="wm-title">Archive Team: URLs</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20201225081601/http://www.zokontrol.com/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","http://www.zokontrol.com/","20201225081601",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+    <!-- <div id="page-loader">
+		<div>
+			<div class="loader-inner ball-grid-pulse"></div>
+		</div>
+	</div> -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light" id="custom_navbar">
+            <div class="container">
+                <a class="navbar-brand logo animated fadeInDown" href="index.php"><img src="/web/20201225081601im_/http://www.zokontrol.com/images/logo.png"/></a>
+
+                <button type="button" class="navbar-toggler animated zoomIn nav_btn" data-mdc-auto-init="MDCRipple" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <img src="/web/20201225081601im_/http://www.zokontrol.com/images/menu.png"/>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                    <!-- <button type="button" id="close_nav" class="d-lg-none d-xl-none d-block"><i class="icofont-close-line"></i></button> -->
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="index.php" rel="relativeanchor">Home <span class="sr-only">(current)</span></a></li>
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="about_us.php" rel="relativeanchor">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="sales_enquiry.php" rel="relativeanchor">Smart Home</a></li>
+                        <li class="nav-item dropdown"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface dropdown-toggle" href="index.php#section4" rel="relativeanchor" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
+                            <div class="dropdown-menu" aria-labelledby="productsDropdown">
+                                <a class="dropdown-item" href="harmonia.php">Harmonia</a>
+                                <a class="dropdown-item" href="eos.php">Eos</a>
+                            </div>
+                        </li>
+                        <!-- <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="javascript:void(0)" rel="relativeanchor">Blog</a></li> -->
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="support.php" rel="relativeanchor">Support</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div></div>
+
+    <section>
+        <div class="row no-gutters" id="wrapper">
+            <div class="col-12"> <!-- Section1 -->
+<div class="swiper-container homepage-slider">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <div class="row no-gutters">
+                <div class="col-12 nopadding align-items-end display-flex" id="section1">
+                    <div class="container">
+                        <div class="col-12 nopadding section1-cell ht100per">
+                            <div class="row align-items-center display-flex">
+                                <div class="col-lg-6 col-12">
+                                    <div class="section1-caption">
+                                        <img src="/web/20201225081601im_/http://www.zokontrol.com/images/harmonia-logo.png" class="harmonia-logo"/>
+                                        <h1>Introducing a new era of smartness, with India’s first next-gen wi-fi enabled voltage stabilizer.
+                                            Get the control of your AC on your fingertips and make your life easy with a tap.</h1>
+
+                                        <!-- <a href="javascript:void(0)" role="button" class="mdc-button mdc-typography--button mdc-button--raised buy-now-btn" data-mdc-auto-init="MDCRipple" data-scroll="toggle(.fromBottomIn, .fromBottomOut)"><i class="material-icons">shopping_cart</i> Pree Book Now</a><a href="javascript:void(0)" role="button" class="mdc-button mdc-typography--button mdc-button--raised download-btn" data-mdc-auto-init="MDCRipple" data-scroll="toggle(.fromBottomIn, .fromBottomOut)"><img src="images/google-download-btn.png" /></a> -->
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-12 xs-center">
+                                    <img src="/web/20201225081601im_/http://www.zokontrol.com/images/banner-device-with-mobile-img.png" class="animated fadeIn"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="swiper-slide">
+            <div class="row no-gutters">
+                <div class="col-12 align-items-end display-flex" id="eos-detail-section1">
+                    <div class="container">
+                        <div class="col-12 nopadding eos-detail-section1-cell ht100per">
+                            <div class="row display-flex">
+                                <div class="col-lg-5 col-12">
+                                    <div class="eos-detail-section1-caption">
+                                        <div><img src="/web/20201225081601im_/http://www.zokontrol.com/images/amazon-exclusive-img.png" class="amazon-exclusive margin-10px-bottom" alt="Amazon Exclusive"/></div>
+                                        <img src="/web/20201225081601im_/http://www.zokontrol.com/images/eos-logo.png" class="eos-logo" alt="EOS Digital Voltage Stablizer"/>
+                                        <h1>
+                                            A voltage stabilizer for your Air conditioner with high efficiency,high precision and a wide voltage stabilizing range
+                                        </h1>
+
+                                        <a href="https://web.archive.org/web/20201225081601/https://www.amazon.in/Zo-Kontrol-Digital-Stabilizer-155-290V/dp/B07CYTP1M7/ref=sr_1_fkmr0_1?keywords=zokontrol+eos&amp;qid=1555591493&amp;s=gateway&amp;sr=8-1-fkmr0" target="_blank" role="button" class="mdc-button mdc-typography--button mdc-button--raised flex-direction-column amazon-btn" data-mdc-auto-init="MDCRipple"><small>Available on</small><img src="/web/20201225081601im_/http://www.zokontrol.com/images/amazon-logo.png"/></a>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-7 order-lg-6 col-12 xs-center">
+                                    <img src="/web/20201225081601im_/http://www.zokontrol.com/images/eos-banner-50per-offer-img.png" class="animated fadeIn"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-pagination"></div>
+</div>
+
+<!-- Section2 -->
+<div class="row no-gutters">
+    <div class="col-12" id="section2">
+        <div class="container">
+            <div class="row ht100per no-gutters align-items-center">
+                <div class="col-12 section2-cell">
+                    <div class="row">
+
+                        <!-- What is Zo kontrol -->
+                        <div class="col-12">
+                            <div class="row">
+                                <div class="col-12 section2-caption text-center">
+                                    <h2 data-scroll="toggle(.fromTopIn, .fromTopOut)">About Zo kontrol</h2>
+                                    <p class="font-size-1rem content" data-scroll="toggle(.fromTopIn, .fromTopOut)">In this new millennia,our homes are coherently integrated with all sorts of machines. They help us in making our daily lives easy and hassle free, and we absolutely don’t want these tech helpers to become a headache when their handling issues are concerned. We need a live control of these things with us always, a magic wand to operate everything remotely.</p>
+                                    <p class="no-margin-bottom"><a href="about_us.php" class="mdc-button secondary-btn xs-btn-size" role="button" data-mdc-auto-init="MDCRipple">Know more</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--img src="images/section2-phone.png" class="section2-phone-img"
+			data-scroll="toggle(.fromRightIn, .fromRightOut)" /-->
+    </div>
+</div>
+
+<!-- Section3 -->
+<div class="row no-gutters">
+    <div class="col-12" id="section3">
+        <div id="particles-js" class="position-absolute"></div>
+        <div class="container nopadding">
+            <div class="row ht100per no-gutters align-items-center">
+                <div class="col-12 section3-cell">
+                    <div class="row">
+
+                        <!-- Why Zo kontrol -->
+                        <div class="col-12 why-zo">
+                            <div class="row align-items-center">
+                                <div class="col-xl-6 col-lg-6 col-12 text-center ">
+                                    <img src="/web/20201225081601im_/http://www.zokontrol.com/images/smart-home.png"/>
+                                </div>
+
+                                <div class="col-xl-5 col-lg-6 col-12 why-zo-content">
+                                    <h2 data-scroll="toggle(.fromTopIn, .fromTopOut)">The age of
+                                        home automation is here, your Smartphone is what you need.</h2>
+                                    <p data-scroll="toggle(.fromBottomIn, .fromBottomOut)">Zo kontrol saw the light of the day envisaging the dream of making home automation an extensive and affordable technology.</p>
+                                    <p data-scroll="toggle(.fromBottomIn, .fromBottomOut)">
+                                        You can choose from our high standard automation solutions for
+                                        your household gadgets like air conditioner, water pump, water
+                                        heater, giving these dull mechanical devices a smart touch.
+                                        Apart from these you can also have specially designed
+                                        customizable products namely <strong>Zo kontrol</strong> smart
+                                        lamps with various color modes to suit your changing mood.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Section4 -->
+<div class="row no-gutters">
+    <div class="col-12" id="section4">
+        <div class="container">
+            <div class="row ht100per no-gutters">
+                <div class="col-12">
+                    <div class="row align-items-center xs-text-center">
+                        <div class="col-md-5">
+                            <h3 class="margin-five-bottom">Make your life smart with wide range of products</h3>
+                            <h4 class="text-dark-blue">Explore our product range</h4>
+                        </div>
+                        <div class="col-md-7 xs-margin-four-top">
+                            <img src="/web/20201225081601im_/http://www.zokontrol.com/images/product-range.png"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Section5 -->
+<div class="row no-gutters">
+    <div class="col-12" id="section5">
+        <div class="container ht100per">
+            <div class="row no-gutters ht100per align-items-center">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h2>Curious on how we can help you?</h2>
+                        </div>
+                        <div class="col-md-3 text-right sm-text-right xs-text-center xs-margin-four-top">
+                            <a href="#query_modal" role="button" class="mdc-button mdc-typography--button mdc-button--raised primary-btn" data-mdc-auto-init="MDCRipple" data-scroll="toggle(.fromRightIn, .fromRightOut)" data-toggle="modal">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Homepage's Query Modal -->
+<div class="modal fade" id="query_modal" tabindex="-1" role="dialog" aria-labelledby="query_modalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <form method="post" id="quick_contact_form" class="needs-validation" action="quick-contact.php" role="form">
+                <input type="hidden" name="form_name" value="Zo kontrol Quick Contact Form">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="query_modalTitle">Quick Contact</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="messages"></div>
+
+                    <div class="form-group">
+                        <div class="mdc-text-field mdc-text-field--outlined width-100" data-mdc-auto-init="MDCTextField">
+                            <input type="text" name="name" id="tf_full_name" class="mdc-text-field__input" required>
+                            <div class="mdc-notched-outline">
+                                <div class="mdc-notched-outline__leading"></div>
+                                <div class="mdc-notched-outline__notch">
+                                    <label for="tf_full_name" class="mdc-floating-label">Full Name</label>
+                                </div>
+                                <div class="mdc-notched-outline__trailing"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="mdc-text-field mdc-text-field--outlined width-100" data-mdc-auto-init="MDCTextField">
+                            <input type="tel" name="phone" id="tf_phone" class="mdc-text-field__input" required>
+                            <div class="mdc-notched-outline">
+                                <div class="mdc-notched-outline__leading"></div>
+                                <div class="mdc-notched-outline__notch">
+                                    <label for="tf_phone" class="mdc-floating-label">Contact No.</label>
+                                </div>
+                                <div class="mdc-notched-outline__trailing"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="mdc-text-field mdc-text-field--outlined width-100" data-mdc-auto-init="MDCTextField">
+                            <input type="email" name="email" id="tf_email" class="mdc-text-field__input" required>
+                            <div class="mdc-notched-outline">
+                                <div class="mdc-notched-outline__leading"></div>
+                                <div class="mdc-notched-outline__notch">
+                                    <label for="tf_email" class="mdc-floating-label">Email Id</label>
+                                </div>
+                                <div class="mdc-notched-outline__trailing"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="mdc-text-field mdc-text-field--outlined mdc-text-field--textarea width-100" data-mdc-auto-init="MDCTextField">
+                            <textarea id="message" class="mdc-text-field__input" name="message" rows="3" required></textarea>
+                            <div class="mdc-notched-outline">
+                                <div class="mdc-notched-outline__leading"></div>
+                                <div class="mdc-notched-outline__notch">
+                                    <label for="message" class="mdc-floating-label">Your Message</label>
+                                </div>
+                                <div class="mdc-notched-outline__trailing"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" name="g-recaptcha-response" id="recaptchaResponse">
+                <div class="modal-footer">
+                    <button type="submit" class="mdc-button primary-btn" data-mdc-auto-init="MDCRipple" id="submit" data-callback="submitForm">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function() {
+        particlesJS.load('particles-js', 'particles.json', function() {
+            //console.log('particles.js loaded - callback');
+        });
+    });
+</script>
+
+</div>
+</div>
+</section>
+
+<footer>
+    <div class="row no-gutters" id="footer">
+        <div class="col-12">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-md-9">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <h4>About Us</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="about_us.php"><u>Corporate Profile</u></a></li>
+                                            <li><a href="contact-us.php"><u>Contact Us</u></a></li>
+                                            <!-- <li><a href="javascript:void(0)"><u>Blog</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Privacy Policy</u></a></li> -->
+
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Products</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="harmonia.php"><u>Harmonia</u></a></li>
+                                            <li><a href="eos.php"><u>Eos</u></a></li>
+                                            <!-- <li><a href="javascript:void(0)"><u>Iris</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Metrik</u></a></li> -->
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Buy</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <!-- <li><a href="javascript:void(0)"><u>Buy Now</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Custom Smart Home</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Custom IoT Solution</u></a></li> -->
+                                            <li><a href="sales_enquiry.php"><u>Sales Enquiry</u></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Support</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="faq.php"><u>FAQs</u></a></li>
+                                            <li><a href="support.php"><u>Support</u></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3">
+                                <!-- <h4>Downloads</h4>
+                                <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                    <li><a href="javascript:void(0)" role="button" class="download-btn"><span class="socicon-play"></span> Play Store</a></li>
+                                </ul> -->
+                                <h4>Follow Us On</h4>
+                                <ul class="list-unstyled">
+                                    <li><a href="https://web.archive.org/web/20201225081601/https://facebook.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-facebook fb"></i></a> <a href="https://web.archive.org/web/20201225081601/https://twitter.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-twitter tw"></i></a> <a href="https://web.archive.org/web/20201225081601/https://instagram.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-instagram"></i></a> <a href="https://web.archive.org/web/20201225081601/https://in.linkedin.com/company/zokontrol" class="sc-ic" target="_blank"><i class="icofont-linkedin lin"></i></a> <!-- a href="https://youtube.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-youtube-play yt"></i></a -->
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- <div class="col-12">
+								<hr>
+							</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 text-center" id="copyright">
+            <p class="nomb">
+                <small>&copy; 2020 All Rights Reserved By <a href="https://web.archive.org/web/20201225081601/http://techencephalon.com/" target="_blank" class="text-decoration-underline ">Techencephalon
+                        Softwares Pvt. Ltd.</a></small>
+            </p>
+        </div>
+    </div>
+
+    <!-- <a href="#wrapper" role="button" id="" rel="relativeanchor" data-mdc-auto-init="MDCRipple" class="scroll_to_top animated d-none d-md-block d-lg-block d-xl-block"><i class="icofont-swoosh-up"></i></a> -->
+    <a href="#wrapper" role="button" id="" rel="relativeanchor" data-mdc-auto-init="MDCRipple" class="scroll_to_top animated"><i class="icofont-long-arrow-up"></i> Back to top</a>
+
+
+</footer>
+</div>
+</main>
+</div>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/web/20201225081601js_/http://www.zokontrol.com/js/ScrollTrigger.min.js"></script>
+<script src="/web/20201225081601js_/http://www.zokontrol.com/js/loaders.css.js"></script>
+<script src="https://web.archive.org/web/20201225081601js_/https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+<script type="text/javascript" src="/web/20201225081601js_/http://www.zokontrol.com/js/particles.min.js"></script>
+<script type="text/javascript" src="/web/20201225081601js_/http://www.zokontrol.com/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/web/20201225081601js_/http://www.zokontrol.com/js/skrollr.min.js"></script>
+<script type="text/javascript" src="/web/20201225081601js_/http://www.zokontrol.com/js/smooth-scroll.js"></script>
+<!-- page scroll -->
+<!-- <script type="text/javascript" src="js/page-scroll.js"></script> -->
+<!-- swiper carousel -->
+<script type="text/javascript" src="/web/20201225081601js_/http://www.zokontrol.com/js/swiper.min.js"></script>
+<!-- retina -->
+<!-- <script type="text/javascript" src="js/retina.min.js"></script> -->
+<script src="/web/20201225081601js_/http://www.zokontrol.com/js/swiper.min.js"></script>
+<script>
+    window.mdc.autoInit();
+</script>
+<script src="https://web.archive.org/web/20201225081601js_/https://www.google.com/recaptcha/api.js?render=6Leuv6AUAAAAAPg-xGM4VCjgRh3PWGAUeuO957iP"></script>
+<script src="/web/20201225081601js_/http://www.zokontrol.com/js/custom.js"></script>
+
+</body>
+
+</html><!--
+     FILE ARCHIVED ON 08:16:01 Dec 25, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:47:39 May 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.96
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.052
+  esindex: 0.053
+  cdx.remote: 6.463
+  LoadShardBlock: 4682.547 (3)
+  PetaboxLoader3.resolve: 1321.564 (3)
+  PetaboxLoader3.datanode: 3947.404 (5)
+  load_resource: 743.847
+  loaddict: 102.876
+  nav: 0.308 (6)
+-->
