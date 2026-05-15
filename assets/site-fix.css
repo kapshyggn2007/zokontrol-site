@@ -1,4 +1,4 @@
-/* Shared stabilization for all non-home pages */
+﻿/* Shared stabilization for all non-home pages */
 html,
 body,
 body.mdc-typography {
@@ -105,10 +105,7 @@ body {
   color: #f26d35 !important;
 }
 
-#footer {
-  background: #132a4a !important;
-  color: #edf3ff !important;
-}
+footer { background: transparent !important; background-color: transparent !important; box-shadow: none !important; }
 
 #footer h4 {
   color: #ffffff !important;
@@ -311,10 +308,7 @@ body.harmonia-page #compare thead th.bg-orange {
   background: #f26d35 !important;
 }
 
-body.harmonia-page #footer {
-  background: #132a4a !important;
-  color: #edf3ff !important;
-}
+body.harmonia-page footer { background: transparent !important; background-color: transparent !important; box-shadow: none !important; }
 
 body.harmonia-page #footer h4 {
   color: #ffffff !important;
@@ -348,3 +342,4 @@ body.harmonia-page #copyright {
     line-height: 1.25 !important;
   }
 }
+

@@ -1,4 +1,4 @@
-@CHARSET "ISO-8859-1";
+﻿@CHARSET "ISO-8859-1";
 html, body, .mdc-typography {
 	font-family: 'Segoe UI', Arial, sans-serif;
 	font-weight: 100;
@@ -743,12 +743,7 @@ header, section, footer, main {
 }
 
 /* Footer */
-#footer {
-	/* background: #0d132b; */
-	background: #000516;
-    padding: 30px 0 0;
-    color: #e0e0e0;
-}
+footer { background: transparent !important; background-color: transparent !important; box-shadow: none !important; }
 #footer .footer-col ul li {
 	padding: 0 15px;
 	position: relative;
@@ -1444,3 +1439,4 @@ playback timings (ms):
     height: auto;
   }
 }
+
