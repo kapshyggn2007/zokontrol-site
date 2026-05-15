@@ -1,0 +1,14 @@
+﻿/* footer: Zo Kontrol darker blue */
+footer, #footer {
+  background: #004b8d !important;
+  background-color: #004b8d !important;
+  color: #ffffff !important;
+  z-index: 2000 !important;
+  position: relative !important;
+  box-shadow: none !important;
+  outline: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}

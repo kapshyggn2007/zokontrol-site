@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url(/web/20220426163122im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.eot); /* For IE6-8 */
+	src: local('Material Icons'), local('MaterialIcons-Regular'),
+		url(/web/20220426163122im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.woff2) format('woff2'),
+		url(/web/20220426163122im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.woff) format('woff'),
+		url(/web/20220426163122im_/http://zokontrol.com/css/material-icons/MaterialIcons-Regular.ttf) format('truetype');
+}
+
+.material-icons {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px; /* Preferred icon size */
+	display: inline-block;
+	line-height: 1;
+	text-transform: none;
+	letter-spacing: normal;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+	/* Support for all WebKit browsers. */
+	-webkit-font-smoothing: antialiased;
+	/* Support for Safari and Chrome. */
+	text-rendering: optimizeLegibility;
+	/* Support for Firefox. */
+	-moz-osx-font-smoothing: grayscale;
+	/* Support for IE. */
+	font-feature-settings: 'liga';
+}
+/*
+     FILE ARCHIVED ON 16:31:22 Apr 26, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:09:38 May 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.329
+  exclusion.robots: 0.04
+  exclusion.robots.policy: 0.034
+  esindex: 0.006
+  cdx.remote: 18.537
+  LoadShardBlock: 101.882 (3)
+  PetaboxLoader3.resolve: 186.651 (4)
+  PetaboxLoader3.datanode: 117.154 (5)
+  load_resource: 214.941 (2)
+*/

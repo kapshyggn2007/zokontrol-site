@@ -1,0 +1,14 @@
+﻿/* final visible footer: dark background and readable text */
+footer, #footer {
+  background: #0f1720 !important;
+  background-color: #0f1720 !important;
+  color: #ffffff !important;
+  z-index: 2000 !important;
+  position: relative !important;
+  box-shadow: none !important;
+  outline: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}

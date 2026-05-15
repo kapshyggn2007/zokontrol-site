@@ -1,0 +1,328 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <meta name="theme-color" content="#f26d35">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Zo kontrol - Smart Home Automation</title>
+    <meta name="description" content="In this new millennia, our homes are coherently integrated with all sorts of machines.">
+
+    <link rel="shortcut icon" type="image/png" href="./assets/logo.png">
+
+    <link href="./assets/material-icons.css" rel="stylesheet">
+    <link href="./assets/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/material-components-web.min.css">
+    <link href="./assets/loaders.min.css" rel="stylesheet">
+    <link href="./assets/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/swiper.min.css">
+    <link href="./assets/custom-style.css" rel="stylesheet">
+    <link href="./assets/custom.css" rel="stylesheet">
+    <link href="./assets/site-fix.css" rel="stylesheet">
+    <link href="./assets/home-fix.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./assets/banner-styles.css">
+<link rel="stylesheet" href="assets/css/footer-override.css">
+</head>
+
+<body class="mdc-typography">
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light" id="custom_navbar">
+            <div class="container">
+                <a class="navbar-brand logo animated fadeInDown" href="index.html"><img src="./assets/logo.png"></a>
+
+                <button type="button" class="navbar-toggler animated zoomIn nav_btn" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="about_us.html">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="sales_enquiry.html">Smart Home</a></li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
+                            <div class="dropdown-menu" aria-labelledby="productsDropdown">
+                                <a class="dropdown-item" href="harmonia.html">Harmonia</a>
+                                <a class="dropdown-item" href="eos.html">Eos</a>
+                            </div>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="support.html">Support</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <section>
+        <div class="row no-gutters" id="wrapper">
+            <div class="col-12"> 
+                
+                <div class="swiper-container homepage-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="row no-gutters">
+                                <div class="col-12 nopadding align-items-end display-flex" id="section1">
+                                    <div class="container">
+                                        <div class="col-12 nopadding section1-cell ht100per">
+                                            <div class="row align-items-center display-flex">
+                                                <div class="col-lg-6 col-12">
+                                                    <div class="section1-caption text-white">
+                                                        <img src="./assets/harmonia-logo.png" class="harmonia-logo">
+                                                        <h1>Introducing a new era of smartness, with India's first next-gen Wi-Fi enabled voltage stabilizer.
+                                                            Get control of your AC at your fingertips and make your life easy with a tap.</h1>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 col-12 xs-center">
+                                                    <div class="harmonia-hero-right-empty" aria-hidden="true"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="row no-gutters">
+                                <div class="col-12 align-items-end display-flex" id="eos-detail-section1">
+                                    <div class="container">
+                                        <div class="col-12 nopadding eos-detail-section1-cell ht100per">
+                                            <div class="row display-flex">
+                                                <div class="col-lg-5 col-12">
+                                                    <div class="eos-detail-section1-caption">
+                                                        <img src="./assets/eos-logo.png" class="eos-logo" alt="EOS Digital Voltage Stablizer">
+                                                        <h1>A voltage stabilizer for your air conditioner with high efficiency, high precision, and a wide voltage stabilizing range</h1>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-7 order-lg-6 col-12 xs-center">
+                                                    <img src="./assets/eos-banner-50per-offer-img.png" class="animated fadeIn img-fluid">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+                <div class="row no-gutters">
+                    <div class="col-12" id="section2">
+                        <div class="container">
+                            <div class="row ht100per no-gutters align-items-center">
+                                <div class="col-12 section2-cell">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="row">
+                                                <div class="col-12 section2-caption text-center">
+                                                    <h2>About Zo kontrol</h2>
+                                                    <p class="font-size-1rem content">In this new millennia, our homes are coherently integrated with all sorts of machines. They help us in making our daily lives easy and hassle free, and we absolutely don't want these tech helpers to become a headache when their handling issues are concerned. We need a live control of these things with us always, a magic wand to operate everything remotely.</p>
+                                                    <p class="no-margin-bottom"><a href="about_us.html" class="mdc-button secondary-btn xs-btn-size">Know more</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row no-gutters">
+                    <div class="col-12" id="section3">
+                        <div id="particles-js" class="position-absolute"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;"></canvas></div>
+                        <div class="container nopadding">
+                            <div class="row ht100per no-gutters align-items-center">
+                                <div class="col-12 section3-cell">
+                                    <div class="row">
+                                        <div class="col-12 why-zo">
+                                            <div class="row align-items-center">
+                                                <div class="col-xl-6 col-lg-6 col-12 text-center ">
+                                                    <img src="./assets/smart-home.png" class="img-fluid">
+                                                </div>
+                                                <div class="col-xl-5 col-lg-6 col-12 why-zo-content text-white">
+                                                    <h2>The age of home automation is here, your Smartphone is what you need.</h2>
+                                                    <p>Zo kontrol saw the light of the day envisaging the dream of making home automation an extensive and affordable technology.</p>
+                                                    <p>You can choose from our high standard automation solutions for your household gadgets like air conditioner, water pump, water heater, giving these dull mechanical devices a smart touch. Apart from these you can also have specially designed customizable products namely <strong>Zo kontrol</strong> smart lamps with various color modes to suit your changing mood.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row no-gutters">
+                    <div class="col-12" id="section4">
+                        <div class="container">
+                            <div class="row ht100per no-gutters">
+                                <div class="col-12">
+                                    <div class="row align-items-center xs-text-center py-5">
+                                        <div class="col-md-5">
+                                            <h3 class="margin-five-bottom">Make your life smart with wide range of products</h3>
+                                            <h4 class="text-dark-blue">Explore our product range</h4>
+                                        </div>
+                                        <div class="col-md-7 xs-margin-four-top">
+                                            <img src="./assets/eos-banner-50per-offer-img.png" class="img-fluid">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row no-gutters">
+                    <div class="col-12" id="section5">
+                        <div class="container ht100per">
+                            <div class="row no-gutters ht100per align-items-center py-5">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col-md-9">
+                                            <h2>Curious on how we can help you?</h2>
+                                        </div>
+                                        <div class="col-md-3 text-right xs-text-center">
+                                            <button class="btn btn-primary primary-btn" data-toggle="modal" data-target="#query_modal">Contact Us</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <footer>
+    <div class="row no-gutters" id="footer">
+        <div class="col-12">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-md-9">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <h4>About Us</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="about_us.html"><u>Corporate Profile</u></a></li>
+                                            <li><a href="contact-us.html"><u>Contact Us</u></a></li>
+                                            <!-- <li><a href="./assets/javascript:void\\\(0\\\)"><u>Blog</u></a></li>
+                                            <li><a href="./assets/javascript:void\\\(0\\\)"><u>Privacy Policy</u></a></li> -->
+
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Products</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="harmonia.html"><u>Harmonia</u></a></li>
+                                            <li><a href="eos.html"><u>Eos</u></a></li>
+                                            <!-- <li><a href="./assets/javascript:void\\\(0\\\)"><u>Iris</u></a></li>
+                                            <li><a href="./assets/javascript:void\\\(0\\\)"><u>Metrik</u></a></li> -->
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Buy</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <!-- <li><a href="./assets/javascript:void\\\(0\\\)"><u>Buy Now</u></a></li>
+                                            <li><a href="./assets/javascript:void\\\(0\\\)"><u>Custom Smart Home</u></a></li>
+                                            <li><a href="./assets/javascript:void\\\(0\\\)"><u>Custom IoT Solution</u></a></li> -->
+                                            <li><a href="sales_enquiry.html"><u>Sales Enquiry</u></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Support</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="faq.html"><u>FAQs</u></a></li>
+                                            <li><a href="support.html"><u>Support</u></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3">
+                                <!-- <h4>Downloads</h4>
+                                <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                    <li><a href="./assets/javascript:void\\\(0\\\)" role="button" class="download-btn"><span class="socicon-play"></span> Play Store</a></li>
+                                </ul> -->
+                                <h4>Follow Us On</h4>
+                                <ul class="list-unstyled">
+                                    <li><a href="https://www.zokontrol.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-facebook fb"></i></a> <a href="https://www.zokontrol.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-twitter tw"></i></a> <a href="https://www.zokontrol.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-instagram"></i></a> <a href="https://www.zokontrol.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-linkedin lin"></i></a> <!-- a href="https://youtube.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-youtube-play yt"></i></a -->
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- <div class="col-12">
+								<hr>
+							</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 text-center" id="copyright">
+            <p class="nomb">
+                <small>&copy; 2026 All Rights Reserved By Kapil Singh.</small>
+            </p>
+        </div>
+    </div>
+
+    <!-- <a href="#wrapper" role="button" id="" rel="relativeanchor" data-mdc-auto-init="MDCRipple" class="scroll_to_top animated d-none d-md-block d-lg-block d-xl-block"><i class="icofont-swoosh-up"></i></a> -->
+    <a href="#wrapper" role="button" id="" rel="relativeanchor" data-mdc-auto-init="MDCRipple" class="scroll_to_top animated"><i class="icofont-long-arrow-up"></i> Back to top</a>
+
+
+</footer>
+
+
+
+
+
+
+
+</div>
+</main>
+</div>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+
+<script src="./assets/jquery.min.js"></script>
+<script src="./assets/popper.min.js"></script>
+<script src="./assets/bootstrap.min.js"></script>
+<script src="./assets/jquery.form.min.js"></script>
+<script src="./assets/ScrollTrigger.min.js"></script>
+<script src="./assets/loaders.css.js"></script>
+<script src="./assets/material-components-web.min.js"></script>
+<script src="./assets/particles.min.js"></script>
+<script src="./assets/jquery.easing.1.3.js"></script>
+<script src="./assets/skrollr.min.js"></script>
+<script src="./assets/swiper.min.js"></script>
+<script src="./assets/custom.js"></script></body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
