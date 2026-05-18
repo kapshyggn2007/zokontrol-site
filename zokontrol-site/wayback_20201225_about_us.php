@@ -1,0 +1,420 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app247.us.archive.org';v.server_ms=3405;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=oZ57VlYl" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://zokontrol.com/about_us.php","20220426163124","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1650990684");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <meta name="theme-color" content="#f26d35"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Zo kontrol</title>
+    <meta name="description" content="In this new millennia, our homes are coherently integrated with all sorts of machines.">
+    <meta property="og:image" itemprop="image" content="https://web.archive.org/web/20220426163124im_/http://zokontrol.com/images/zo-url-img.jpg">
+    <meta property="og:title" content="Zo kontrol - Smart Home Automation"/>
+    <meta property="og:url" content="https://web.archive.org/web/20220426163124/http://zokontrol.com/"/>
+    <meta property="og:description" content="Making our daily lives easy and hassle free">
+    <meta property="og:site_name" content="Zo kontrol"/>
+    <link rel="shortcut icon" type="image/png" href="/web/20220426163124im_/http://zokontrol.com/images/favicon.png"/>
+
+    <!-- icon in the highest resolution we need it for -->
+    <link rel="icon" sizes="192x192" href="/web/20220426163124im_/http://zokontrol.com/images/icon.png">
+
+    <!-- reuse same icon for Safari -->
+    <link rel="apple-touch-startup-image" href="images/icon.png">
+    <link rel="apple-touch-icon" href="/web/20220426163124im_/http://zokontrol.com/images/ios-icon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/web/20220426163124im_/http://zokontrol.com/images/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/web/20220426163124im_/http://zokontrol.com/images/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/web/20220426163124im_/http://zokontrol.com/images/touch-icon-ipad-retina.png">
+
+    <!-- multiple icons for IE -->
+    <meta name="msapplication-square310x310logo" content="images/icon_largetile.png">
+
+    <link href="/web/20220426163124cs_/http://zokontrol.com/css/material-icons/material-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="/web/20220426163124cs_/http://zokontrol.com/css/icofont.min.css">
+    <!-- Bootstrap -->
+    <link href="/web/20220426163124cs_/http://zokontrol.com/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://web.archive.org/web/20220426163124cs_/https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+    <link href="/web/20220426163124cs_/http://zokontrol.com/css/loaders.min.css" rel="stylesheet">
+    <link href="/web/20220426163124cs_/http://zokontrol.com/css/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="/web/20220426163124cs_/http://zokontrol.com/css/swiper.min.css">
+    <link href="/web/20220426163124cs_/http://zokontrol.com/css/custom-style.css" rel="stylesheet">
+    <link href="/web/20220426163124cs_/http://zokontrol.com/css/custom.css" rel="stylesheet">
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+    <script src="https://web.archive.org/web/20220426163124js_/https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://web.archive.org/web/20220426163124js_/https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="" crossorigin="anonymous">
+    </script>
+    <script src="https://web.archive.org/web/20220426163124js_/https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="" crossorigin="anonymous">
+    </script>
+    <script src="/web/20220426163124js_/http://zokontrol.com/js/bootstrap.min.js"></script>
+    <script src="https://web.archive.org/web/20220426163124js_/https://code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="https://web.archive.org/web/20220426163124js_/https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://web.archive.org/web/20220426163124js_/https://www.googletagmanager.com/gtag/js?id=UA-138591856-1"></script>
+    <script src="https://web.archive.org/web/20220426163124js_/https://www.google.com/recaptcha/api.js?render=6Leuv6AUAAAAAPg-xGM4VCjgRh3PWGAUeuO957iP"></script>
+ <script>
+        grecaptcha.ready(function () {
+            grecaptcha.execute('6Leuv6AUAAAAAPg-xGM4VCjgRh3PWGAUeuO957iP', { action: 'index' }).then(function (token) {
+                var recaptchaResponse = document.getElementById('recaptchaResponse');
+                recaptchaResponse.value = token;
+            });
+        });
+    </script>
+
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-138591856-1');
+    </script>
+
+</head>
+
+<body class="mdc-typography"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20220426163124/http%3A//zokontrol.com/about_us.php"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://zokontrol.com/about_us.php" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20220426163124" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20220426163124*/http://zokontrol.com/about_us.php" title="See a list of every capture for this URL">1 capture</a>
+          <div class="r" title="Timespan for captures of this URL">26 Apr 2022</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Mar</td>
+            <td class="c" id="displayMonthEl" title="You are here: 16:31:24 Apr 26, 2022">APR</td>
+            <td class="f" nowrap="nowrap">May</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 16:31:24 Apr 26, 2022">26</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2021</td>
+            <td class="c" id="displayYearEl" title="You are here: 16:31:24 Apr 26, 2022">2022</td>
+            <td class="f" nowrap="nowrap">2023</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20220426163124/http://web.archive.org/screenshot/http://zokontrol.com/about_us.php"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20220426163124/http://zokontrol.com/about_us.php" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20220426163124/http://zokontrol.com/about_us.php" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/mega-001)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/mega-001" target="_new"><span class="wm-title">mega001</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20220426163124/http://zokontrol.com/about_us.php</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","http://zokontrol.com/about_us.php","20220426163124",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+    <!-- <div id="page-loader">
+		<div>
+			<div class="loader-inner ball-grid-pulse"></div>
+		</div>
+	</div> -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light" id="custom_navbar">
+            <div class="container">
+                <a class="navbar-brand logo animated fadeInDown" href="index.php"><img src="/web/20220426163124im_/http://zokontrol.com/images/logo.png"/></a>
+
+                <button type="button" class="navbar-toggler animated zoomIn nav_btn" data-mdc-auto-init="MDCRipple" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <img src="/web/20220426163124im_/http://zokontrol.com/images/menu.png"/>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                    <!-- <button type="button" id="close_nav" class="d-lg-none d-xl-none d-block"><i class="icofont-close-line"></i></button> -->
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="index.php" rel="relativeanchor">Home <span class="sr-only">(current)</span></a></li>
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="about_us.php" rel="relativeanchor">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="sales_enquiry.php" rel="relativeanchor">Smart Home</a></li>
+                        <li class="nav-item dropdown"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface dropdown-toggle" href="index.php#section4" rel="relativeanchor" id="productsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
+                            <div class="dropdown-menu" aria-labelledby="productsDropdown">
+                                <a class="dropdown-item" href="harmonia.php">Harmonia</a>
+                                <a class="dropdown-item" href="eos.php">Eos</a>
+                            </div>
+                        </li>
+                        <!-- <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="javascript:void(0)" rel="relativeanchor">Blog</a></li> -->
+                        <li class="nav-item"><a class="nav-link mdc-ripple-surface mdc-ripple-surface--primary my-surface" href="support.php" rel="relativeanchor">Support</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div></div>
+
+    <section>
+        <div class="row no-gutters" id="wrapper">
+            <div class="col-12"> <div class="row no-gutters">
+    <div class="col-12 about-gradient text-center text-white display-flex align-items-end">
+        <h1 class="font-weight-400">About Us</h1>
+    </div>
+</div>
+
+<div class="row" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="no-margin-top">About Zo kontrol</h1>
+                <p>In this new millennia,our homes are coherently integrated with all sorts of machines. They help us in making our daily lives easy and hassle free, and we absolutely don’t want these tech helpers to become a headache when their handling issues are concerned. We need a live control of these things with us always, a magic wand to operate everything remotely. Zo Kontrol, the brand name under the aegis of Techencephalon where we innovate and bring to you various IoT products and solutions for Smart Home Automation.So that you can focus on your loved ones and leave everything else on the  Zo Kontrol app on your smartphone.</p>
+                <p>Techencephalon has built many interesting and sophisticated products for a range of clients. From some of the biggest brands to many ‘interesting’ technology start-ups and new ventures, we have been able to form really successful partnerships across the globe – US, Europe and Asia. Combining this development expertise with excellent in-house QA and design teams, Techencephalon provides end-to-end solutions.</p>
+                <h4>This is how we do it</h4>
+                <p>When the home appliances or other mechanical devices are connected to the internet, they become a part of an interactive network which makes the internet of things (IoT).We make them capable of acting like they have brains.</p>
+                <p>We thoroughly study our client's requirements and as per the given budget, our team of experts  propound a  best possible solution. A prototype is then developed and further tested for the desired conditions, the results of which are duly shared with the client for the final approval. The final design and development process runs with an efficient speed keeping in consideration the given timelines. Providing warranty and maintenance services as per the needs of our clients show our sheer confidence and dependability.</p>
+                <h1>Services</h1>
+                <div class="row" id="about-services">
+                    <div class="col-md-6 smart-home display-flex align-items-center justify-content-end">
+                        <h2 class="font-family-futurastd font-weight-100">Smart Homes</h2>
+                    </div>
+                    <div class="col-md-6 smart-industry display-flex align-items-center">
+                        <h2 class="font-family-futurastd font-weight-100">Industry Automation</h2>
+                    </div>
+                </div>
+                <h1>Our Values</h1>
+                <h4>Quality Assurance</h4>
+                <p>The in-house team of QA executives ensures the delivery of error-free solutions to the clients.</p>
+                <h4>Cost Effective</h4>
+                <p>Our  team diligently produce cost effective solutions for the clients. We believe in providing good quality technology at affordable prices.</p>
+                <h4>Innovation</h4>
+                <p>We keep on experimenting and try to find innovative solutions for every incoming demand. Providing a stress free and interactive environment to our workforce assures that the process never stops</p>
+                <h4>Data Safety</h4>
+                <p>We have stern measures to restrict data theft. We have password protected servers, drive less PCs, Email monitoring, and security checks in the premises to ensure that none of our client’s data should be revealed to any unauthorized person.</p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+    <div class="row no-gutters" id="footer">
+        <div class="col-12">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-md-9">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <h4>About Us</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="about_us.php"><u>Corporate Profile</u></a></li>
+                                            <li><a href="contact-us.php"><u>Contact Us</u></a></li>
+                                            <!-- <li><a href="javascript:void(0)"><u>Blog</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Privacy Policy</u></a></li> -->
+
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Products</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="harmonia.php"><u>Harmonia</u></a></li>
+                                            <li><a href="eos.php"><u>Eos</u></a></li>
+                                            <!-- <li><a href="javascript:void(0)"><u>Iris</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Metrik</u></a></li> -->
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Buy</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <!-- <li><a href="javascript:void(0)"><u>Buy Now</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Custom Smart Home</u></a></li>
+                                            <li><a href="javascript:void(0)"><u>Custom IoT Solution</u></a></li> -->
+                                            <li><a href="sales_enquiry.php"><u>Sales Enquiry</u></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <h4>Support</h4>
+                                        <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                            <li><a href="faq.php"><u>FAQs</u></a></li>
+                                            <li><a href="support.php"><u>Support</u></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3">
+                                <!-- <h4>Downloads</h4>
+                                <ul class="list-unstyled margin-twelve-top xs-margin-two-top xs-margin-twelve-bottom">
+                                    <li><a href="javascript:void(0)" role="button" class="download-btn"><span class="socicon-play"></span> Play Store</a></li>
+                                </ul> -->
+                                <h4>Follow Us On</h4>
+                                <ul class="list-unstyled">
+                                    <li><a href="https://web.archive.org/web/20220426163124/https://facebook.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-facebook fb"></i></a> <a href="https://web.archive.org/web/20220426163124/https://twitter.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-twitter tw"></i></a> <a href="https://web.archive.org/web/20220426163124/https://instagram.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-instagram"></i></a> <a href="https://web.archive.org/web/20220426163124/https://in.linkedin.com/company/zokontrol" class="sc-ic" target="_blank"><i class="icofont-linkedin lin"></i></a> <!-- a href="https://youtube.com/zokontrol" class="sc-ic" target="_blank"><i class="icofont-youtube-play yt"></i></a -->
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- <div class="col-12">
+								<hr>
+							</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 text-center" id="copyright">
+            <p class="nomb">
+                <small>&copy; 2022 All Rights Reserved By <a href="https://web.archive.org/web/20220426163124/http://techencephalon.com/" target="_blank" class="text-decoration-underline ">Techencephalon
+                        Softwares Pvt. Ltd.</a></small>
+            </p>
+        </div>
+    </div>
+
+    <!-- <a href="#wrapper" role="button" id="" rel="relativeanchor" data-mdc-auto-init="MDCRipple" class="scroll_to_top animated d-none d-md-block d-lg-block d-xl-block"><i class="icofont-swoosh-up"></i></a> -->
+    <a href="#wrapper" role="button" id="" rel="relativeanchor" data-mdc-auto-init="MDCRipple" class="scroll_to_top animated"><i class="icofont-long-arrow-up"></i> Back to top</a>
+
+
+</footer>
+</div>
+</main>
+</div>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/web/20220426163124js_/http://zokontrol.com/js/ScrollTrigger.min.js"></script>
+<script src="/web/20220426163124js_/http://zokontrol.com/js/loaders.css.js"></script>
+<script src="https://web.archive.org/web/20220426163124js_/https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+<script type="text/javascript" src="/web/20220426163124js_/http://zokontrol.com/js/particles.min.js"></script>
+<script type="text/javascript" src="/web/20220426163124js_/http://zokontrol.com/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/web/20220426163124js_/http://zokontrol.com/js/skrollr.min.js"></script>
+<script type="text/javascript" src="/web/20220426163124js_/http://zokontrol.com/js/smooth-scroll.js"></script>
+<!-- page scroll -->
+<!-- <script type="text/javascript" src="js/page-scroll.js"></script> -->
+<!-- swiper carousel -->
+<script type="text/javascript" src="/web/20220426163124js_/http://zokontrol.com/js/swiper.min.js"></script>
+<!-- retina -->
+<!-- <script type="text/javascript" src="js/retina.min.js"></script> -->
+<script src="/web/20220426163124js_/http://zokontrol.com/js/swiper.min.js"></script>
+<script>
+    window.mdc.autoInit();
+</script>
+<script src="https://web.archive.org/web/20220426163124js_/https://www.google.com/recaptcha/api.js?render=6Leuv6AUAAAAAPg-xGM4VCjgRh3PWGAUeuO957iP"></script>
+<script src="/web/20220426163124js_/http://zokontrol.com/js/custom.js"></script>
+
+</body>
+
+</html><!--
+     FILE ARCHIVED ON 16:31:24 Apr 26, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:48:28 May 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.92
+  exclusion.robots: 0.062
+  exclusion.robots.policy: 0.05
+  esindex: 0.015
+  cdx.remote: 48.548
+  LoadShardBlock: 2856.214 (3)
+  PetaboxLoader3.datanode: 1066.118 (4)
+  PetaboxLoader3.resolve: 2044.682 (2)
+  load_resource: 465.293
+  nav: 0.234 (6)
+-->

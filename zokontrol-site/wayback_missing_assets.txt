@@ -1,0 +1,7 @@
+icofont.min.css|https://web.archive.org/web/20201225081601cs_/http://www.zokontrol.com/css/icofont.min.css
+amazon-exclusive-img.png|https://web.archive.org/web/20201225081601im_/http://www.zokontrol.com/images/amazon-exclusive-img.png
+amazon-logo.png|https://web.archive.org/web/20201225081601im_/http://www.zokontrol.com/images/amazon-logo.png
+banner-device-with-mobile-img.png|https://web.archive.org/web/20201225081601im_/http://www.zokontrol.com/images/banner-device-with-mobile-img.png
+product-range.png|https://web.archive.org/web/20201225081601im_/http://www.zokontrol.com/images/product-range.png
+touch-icon-ipad.png|https://web.archive.org/web/20201225081601im_/http://www.zokontrol.com/images/touch-icon-ipad.png
+smooth-scroll.js|https://web.archive.org/web/20201225081601js_/http://www.zokontrol.com/js/smooth-scroll.js
